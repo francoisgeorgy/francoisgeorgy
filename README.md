@@ -1,31 +1,4 @@
-
-
-<style 
-  type="text/css">
-h1 {color:red;}
-
-p {color:blue;}
-</style>
-
-okay
-
-
-<style
- type="text/css">
- table td {border:none;}
-</style>
-
-<table>
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
-
+Hi! I mainly develop small MIDI applications that run in your browser, and some other miscellaneous tools and experiments.
 
 ### Editors
 
