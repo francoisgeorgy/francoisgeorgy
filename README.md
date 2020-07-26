@@ -1,4 +1,14 @@
 
+
+<style
+  type="text/css">
+h1 {color:red;}
+
+p {color:blue;}
+</style>
+okay
+
+
 <style
  type="text/css">
  table td {border:none;}
