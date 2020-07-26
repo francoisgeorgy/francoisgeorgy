@@ -1,4 +1,5 @@
-<style type="text/css">
+<style 
+ type="text/css">
  table td {border:none;}
 </style>
 
