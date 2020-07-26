@@ -1,16 +1,22 @@
-### Hi there 👋
+### Editors
 
-<!--
-**francoisgeorgy/francoisgeorgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Meris Enzo** Control your Enzo pedal from your browser.
+- **Meris Mercury7** Control your Mercury7 pedal from your browser.
+- **Novation Bass-Station II** Control your Bass-Station II from your browser.
+- **Nektar Pacer** Configure your Pacer directly from your browser.
+- **Disaster Area MIDI-Baby** Configure your MIDI-Baby from your browser.
 
-Here are some ideas to get you started:
+### MIDI tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **MIDI Monitor** Monitor MIDI messages in real-time.
+- **MPE Monitor** MIDI Polyphonic Expression monitor.
+- **MPE Tester** Simulate a MIDI Polyphonic Expression controller.
+- **WebMIDI checker** Check if your browser supports WebMIDI.
+
+### Presets viewers
+
+- **Arturia MicroFreak** View your MicroFreak presets in details.
+
+### LinnStrument
+
+- **LearnStrument** Coming soon...
