@@ -17,6 +17,10 @@ Visit https://studiocode.dev/ to view all the applications and tools.
 - **MPE Tester** Simulate a MIDI Polyphonic Expression controller.
 - **WebMIDI checker** Check if your browser supports WebMIDI.
 
+### Modular synth
+
+- **Distinguished** A WebMIDI browser for the Expert Sleepers Disting Mk4.
+
 ### Presets viewers
 
 - **Arturia MicroFreak** View your MicroFreak presets in details.
