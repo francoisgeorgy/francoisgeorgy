@@ -1,6 +1,7 @@
 Hi! I mainly develop small MIDI applications that run in your browser, and some other miscellaneous tools and experiments.
 
 Visit https://studiocode.dev/ to view all the applications and tools.
+Visit https://francoisgeorgy.ch/ to checkout other interresting projects.
 
 ### Editors
 
