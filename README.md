@@ -2,7 +2,9 @@ Hi! I mainly develop small MIDI applications that run in your browser, and some 
 
 Visit https://studiocode.dev/ to view all the applications and tools.
 
-Visit https://francoisgeorgy.ch/ to checkout other interresting projects.
+### LED Cube
+
+My own LED Cube. Visit https://francoisgeorgy.ch/projects/ to learn more about this exciting project.
 
 ### Editors
 
